@@ -2,7 +2,6 @@
 import { ref, onMounted } from "vue";
 import CocktailModal from "../components/CocktailModal.vue";
 import { CocktailService } from "../api/cocktailService";
-import { Cocktail } from "../models/Cocktail";
 
 const cocktails = ref<Cocktail[]>([]);
 const showModal = ref(false);
