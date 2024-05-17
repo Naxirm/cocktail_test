@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 <template>
-  <img class="home-logo" src="../images/Le Bar’App.png" alt="bar'app logo" />
+  <img class="home-logo" src="../../public/Le Bar’App.png" alt="bar'app logo" />
   <div class="connexion-btns">
     <a href="/cocktails"><button class="customer-btn">Client</button></a>
     <a href="/cocktails"><button class="barmaker-btn">Barmaker</button></a>

@@ -15,7 +15,7 @@ onMounted(() => {
   <nav class="navbar">
     <div class="navbar-logo">
       <a href="/">
-        <img src="../images/Le Bar’App.png" alt="Logo" />
+        <img src="../../public/Le Bar’App.png" alt="Logo" />
       </a>
     </div>
     <div class="info-logout">
